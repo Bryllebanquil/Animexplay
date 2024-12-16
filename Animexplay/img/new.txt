@@ -1,0 +1,17 @@
+project-folder/
+│
+├── index.html         (Homepage)
+├── download.html      (Download Page)
+├── style.css          (Stylesheet)
+├── main.js            (JavaScript File)
+│
+├── img/               (Images and Screenshots)
+│   ├── screenshot-img-1.jpeg
+│   ├── screenshot-img-2.jpeg
+│   ├── screenshot-img-3.jpeg
+│   └── download-v.mp4
+│
+├── swiper/            (Swiper Library, optional if local)
+│   └── required files
+│
+└── assets/            (Any additional fonts, icons, or media)
